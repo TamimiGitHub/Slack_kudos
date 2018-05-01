@@ -94,6 +94,6 @@ After executing the script, if Peter wins, the bot will mention and tag Peter. T
 ### Notes
 
 To use, replace:
-SLACK_PLUGIN_TOKEN -> With your slack plugin token
-CHANNEL_ID -> With your wanted channel ID
-Bot_Token - > With your generated bot token
+SLACK_PLUGIN_TOKEN -> With your slack plugin token <br />
+CHANNEL_ID -> With your wanted channel ID <br />
+Bot_Token - > With your generated bot token <br />
